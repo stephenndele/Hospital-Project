@@ -1,3 +1,4 @@
+
 img{
     width: 350px;
     height: 173px;
@@ -24,5 +25,18 @@ img{
     text-align: center;
     float: right;
   }
-  
+  .mainimage > img{
+    width: 500px;
+    height: 400px;
+  }
+  .welcomemessage{
+    
+      width:1020px;
+      height: 350px;
+      position: absolute;
+      right: 0;
+      top: 180px;
+      margin: auto;
+      border: 1px solid red;
+    }
   
