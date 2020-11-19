@@ -128,7 +128,9 @@ img{
   background-color: #c4c4c4;
   color: white;
 }
-
+h4{
+  color: blueviolet;
+}
 
 /*Contact us page*/
 
@@ -167,3 +169,5 @@ input[type=submit]:hover {
   background-color: #c4c4c4;
   color: white;
 }
+
+
