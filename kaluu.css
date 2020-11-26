@@ -31,20 +31,19 @@ img{
   right: 0px;
 }
 .mainimage > img{
-  width: 500px;
-  height: 400px;
+  width: 478px;
+  height: 410px;
   padding: 0px;
-  top: 175px;
+  top: 170px;
   margin: auto;
 
 }
 .welcomemessage{
   
-    width:1018px;
+    width:1039px;
     height: 400px;
     position: absolute;
     right: 0;
-    text-decoration: purple;
     text-align: center;
     font-family: 'Franklin Gothic Medium';
     font-size: 20px;
@@ -130,6 +129,7 @@ img{
 }
 h4{
   color: blueviolet;
+  text-align: center;
 }
 
 /*Contact us page*/
@@ -173,3 +173,10 @@ em{
   color: red;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+  height:50%;
+}
