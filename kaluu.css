@@ -8,7 +8,7 @@ img{
   background-color: #c4c4c4;
   overflow: hidden;
   height: 177px;
-  width: 1156px;
+  width: 1140px;
   /*padding: 52px 244px;*/
 }
 .topnav a {
@@ -173,7 +173,7 @@ em{
   color: red;
 }
 
-img {
+div.images > img {
   display: block;
   margin-left: auto;
   margin-right: auto;
